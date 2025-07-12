@@ -1,0 +1,29 @@
+{
+  "name": "chatseller-docs",
+  "version": "1.0.0",
+  "description": "Documentation for ChatSeller - AI Commercial Agent platform",
+ "type": "module",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build", 
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.39",
+    "vue": "^3.4.15"
+  },
+  "keywords": [
+    "chatseller",
+    "documentation",
+    "vitepress",
+    "ai",
+    "ecommerce",
+    "chatbot"
+  ],
+  "author": "Dukka Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dukka-ChatSeller/chatseller-docs.git"
+  }
+}
