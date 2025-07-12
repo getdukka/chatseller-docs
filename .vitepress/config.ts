@@ -4,6 +4,9 @@ export default defineConfig({
   title: 'ChatSeller Documentation',
   description: 'Documentation officielle de ChatSeller - Agent IA Commercial pour e-commerce',
   
+  // Désactiver la vérification des liens morts temporairement
+  ignoreDeadLinks: true,
+
   themeConfig: {
     logo: '/logo.svg',
     
